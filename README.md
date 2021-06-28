@@ -38,4 +38,5 @@ set-ExecutionPolicy RemoteSigned
 `sh
 
 typescript-language-server --stdio
+
 `
