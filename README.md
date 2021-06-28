@@ -36,5 +36,6 @@ set-ExecutionPolicy RemoteSigned
 ## 使用
 开发时需要提前启动LSP服务，启动命令
 `sh
+
 typescript-language-server --stdio
 `
